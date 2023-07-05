@@ -1,0 +1,1 @@
+A bash script that print the current working directory of the user. The 'Sheband' at the top of the file is a necessary line to allow the script to be executedwithout explicitly specifying the interpreter each time. It enables the script to be run by simply executing the script file, like any other executable file.
