@@ -1,0 +1,1 @@
+A bash script that change the curret user to the other user. The 'Sheband' at the top of the file is a necessary line to allow the script to be executed without explicitly specifying the interpreter each time. It enables the script to be run by simply executing the script file, like any other executable file.
