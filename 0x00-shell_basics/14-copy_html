@@ -1,0 +1,2 @@
+#!/bin/bash
+source_dir=$(pwd) destination_dir=$(dirname "$source_dir") rsync -ru --ignore-existing --exclude='*/' --include='*.html' --exclude='*' "$source_dir/" "$destination_dir/"
