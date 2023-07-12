@@ -1,2 +1,2 @@
 #!/bin/bash
-set ; env ; declare -F
+cat <(set) <(env | sort) <(declare -F) | less
